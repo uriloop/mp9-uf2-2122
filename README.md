@@ -7,5 +7,5 @@
 ### a1
 - Callable, Runnable
 - Executors: ThreadPoolExecutor, ScheduledThreadPool  
-
+- Tasques de classe i deures: [TO DO](TODO.md)
 
