@@ -15,7 +15,7 @@
 TODO
 > En un *supermercat* hi tenim diverses caixes que quan els hi arriba un cient calculen el preu total de tot el seu
 > carro de la compra: 
-- > El Client ha de tenir un nom i una llista dels preus dels productes que representa el que ha posat al carro, 
+- > El [Client](src/a1/Client.java) ha de tenir un nom i una llista dels preus dels productes que representa el que ha posat al carro, 
 - > Si ha posat dos productes iguals a la llista li surten dos preus iguals, si hi han 20 productes la llista té una mida de 20.
 - > Una Caixa rep un Client i calcula el preu total de tots els productes que hi ha a la llista, despŕés imprimeix el 
 resultat.
